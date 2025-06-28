@@ -1,5 +1,7 @@
 # Twitter Post Scraper Chrome Extension
 
+[English](README.md) | [中文](README_zh.md)
+
 A powerful Chrome extension that automatically scrapes all posts from a Twitter user's profile and exports them as organized JSON data.
 
 ## Features
