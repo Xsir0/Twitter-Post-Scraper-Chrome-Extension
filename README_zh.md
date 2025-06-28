@@ -1,5 +1,7 @@
 # Twitter 帖子抓取器 Chrome 扩展
 
+![Image](./Snipaste.png)
+
 一个强大的 Chrome 扩展，可以自动抓取 Twitter 用户个人资料中的所有帖子并将其导出为有组织的 JSON 数据。
 
 ## 功能特性
